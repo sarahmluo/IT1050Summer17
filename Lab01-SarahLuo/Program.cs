@@ -3,7 +3,7 @@
 namespace Lab01SarahLuo
 {
     class MainClass
-    {
+    {//comment
         public static void Main(string[] args)
         {
             String text1 = "Hello World";
