@@ -1,5 +1,7 @@
 ﻿using System;
 
+// here is a third comment
+
 namespace RepoTest
 {
     class MainClass
