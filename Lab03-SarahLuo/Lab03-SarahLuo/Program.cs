@@ -6,7 +6,7 @@ namespace Lab03SarahLuo
     {
         public static void Main(string[] args)
         {
-            Boolean isTrue = false;
+            bool isTrue = false;
 
             if(isTrue){
                 Console.WriteLine("It is True!");
